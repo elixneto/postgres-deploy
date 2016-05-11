@@ -1,2 +1,3 @@
 # postgres-deploy
-An easy generator-deploy for PostgreSQL
+An easy project structure deploy for PostgreSQL
+Useful for incremental versions of databases
