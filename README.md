@@ -14,11 +14,12 @@ Useful for incremental versions of databases
         \i {{your_path}}/include/install-pg-deploy.sql
 
 ## Executing
+#### Windows
+- Double click on **runpsqlwin.bat**
+
 #### Unix
 - Open terminal
 - Run the following commands:
 
         cd {{your_path}}
         sh runpsqlunix.sh
-#### Windows
-- Double click on runpsqlwin.bat
