@@ -20,3 +20,5 @@ Useful for incremental versions of databases
 
         cd {{your_path}}
         sh runpsqlunix.sh
+#### Windows
+- Double click on runpsqlwin.bat
